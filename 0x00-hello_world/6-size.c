@@ -4,14 +4,8 @@
     *
     *Return: Always 0 (success)
     */
-int main(void)
-	{
-		char;
-		int;
-		long int;
-		long long int;
-		float;
-
+int main()
+{
 printf("Size of a char: %zu byte(s)\n", (unsigned long) sizeof(char));
 printf("Size of an int: %zu byte(s)\n", (unsigned long) sizeof(int));
 printf("Size of a long int: %zu byte(s)\n", (unsigned long) sizeof(long int));
