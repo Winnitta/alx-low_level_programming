@@ -7,16 +7,16 @@
  int main(void)
  {
          int n = 97;
-	 int m=56;
+	 int m=65;
  
-         while (n <= 122);
+ while (n <= 122);
          {
                  putchar(n);
                  
 	 }
 	 While (m <= 90);
 	 {
-		  putchar (m);
+		  putchar(m);
 	 
 	 }
          putchar('\n');
