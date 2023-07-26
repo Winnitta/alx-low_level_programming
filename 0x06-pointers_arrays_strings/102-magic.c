@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/*
+ * Magic numbers - The program prints a[2] = 98, followed by a new line.
+ *@n: The integer to be printed
+*/
+
 int main(void)
 {
 int n;
